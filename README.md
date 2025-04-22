@@ -33,3 +33,7 @@ tutorials/poiseuille flow
 
 ## Getting help and reporting bugs
 Please submit a GitHub issue if you found a bug in the program. If you need help with the software or have further questions, contact Kyriaki-Evangelia Aslani: kiriaki022@gmail.com and k.aslani@go.uop.gr.
+
+
+## Citation
+Please cite as: Kyriaki Evangelia Aslani, Ioannis Sarris, Efstratios Tzirtzilakis. Effect of micromagnetorotation on a micropolar magnetohydrodynamic blood flow in a 3D stenosed artery. DOI: 10.48550/arXiv.2504.13678
