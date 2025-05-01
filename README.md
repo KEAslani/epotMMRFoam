@@ -36,4 +36,4 @@ Please submit a GitHub issue if you found a bug in the program. If you need help
 
 
 ## Citation
-Please cite as: Kyriaki Evangelia Aslani, Ioannis Sarris, Efstratios Tzirtzilakis. Effect of micromagnetorotation on a micropolar magnetohydrodynamic blood flow in a 3D stenosed artery. DOI: 10.48550/arXiv.2504.13678
+Please cite as: Kyriaki-Evangelia Aslani, Ioannis Sarris, Efstratios Tzirtzilakis. On the development of OpenFOAM solvers for simulating MHD micropolar fluid flows with or without the effect of micromagnetorotation. DOI: 10.48550/arXiv.2504.14543.
